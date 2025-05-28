@@ -56,3 +56,13 @@ The assistant stores memory in `assistant_memory.json` including:
 * Tasks and reminders
 * Notes with tags
 * Learned facts about the user
+
+## What it does: 
+This creates an AI assistant that actually remembers your conversations, preferences, and tasks across sessions using a persistent memory system stored in JSON files. Unlike ChatGPT that forgets everything between chats, this assistant builds a relationship with you over time by remembering your name, work preferences, ongoing projects, and conversation history.
+
+## Why use it over alternatives:
+Most AI assistants are stateless and start fresh every conversation. Commercial personal assistants cost $20-50/month and lock you into their ecosystem. This gives you complete control over your data, works with any AI provider (AWS, Anthropic, OpenAI, or local models), and only costs what you pay for API usage. You get genuine personalization that improves over time.
+
+
+## Workflow integration: 
+Use it as your daily AI companion - check in each morning to review tasks and plan your day, capture meeting notes and action items, ask questions where context from previous conversations adds value. It becomes your personalized knowledge base that grows more helpful the more you use it.

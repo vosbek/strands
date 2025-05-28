@@ -57,3 +57,14 @@ python devmate.py
 🌿 Git Status: 3 modified files, 2 untracked files
 💡 Suggested commit: "fix^(auth^): resolve SQL injection vulnerability"
 ```
+
+## What it does: 
+This analyzes your actual codebase (not just generic coding advice) and provides intelligent insights about security vulnerabilities, performance issues, code quality, and technical debt. It combines multiple development tools with AI reasoning to understand your specific project context and suggest improvements, manage development tasks, and help with Git workflows.
+
+## Why use it over alternatives: 
+
+GitHub Copilot only does code completion. SonarQube analyzes code but lacks AI reasoning. ChatGPT gives generic coding advice but can't see your actual codebase. DevMate combines deep code analysis with AI understanding of your specific project, learns your coding patterns over time, and integrates directly into your development workflow.
+
+## Workflow integration: 
+Run analysis at the start of each coding session to prioritize what needs attention. Use it for code reviews before committing to catch issues early. Let it generate commit messages, track technical debt, and maintain project documentation automatically. It becomes your AI pair programmer that understands your specific codebase and helps maintain quality standards.
+These descriptions make it immediately clear why someone would choose these tools over existing alternatives and how they fit into real development workflows. They emphasize the unique value proposition of having AI that understands YOUR specific context rather than providing generic responses.
